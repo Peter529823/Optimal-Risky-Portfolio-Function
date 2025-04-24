@@ -1,0 +1,1 @@
+# Optimal-Risky-Portfolio-Function
